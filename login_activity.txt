@@ -1,0 +1,12 @@
+Attempted login at 2021-03-16 10:48:46.246 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 11:02:29.74 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 11:26:51.814 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 11:45:20.43 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 11:55:41.275 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:05:29.707 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:12:10.266 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:19:06.693 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:24:57.541 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:30:00.229 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:33:53.565 using User Credentials (username) test (password) test || Attempt successful: true
+Attempted login at 2021-03-16 12:40:02.635 using User Credentials (username) test (password) test || Attempt successful: true
